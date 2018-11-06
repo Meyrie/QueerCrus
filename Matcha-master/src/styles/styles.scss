@@ -1,0 +1,55 @@
+@import '~antd/dist/antd.css';
+
+@import './variables/breakpoints';
+@import './variables/colors';
+@import './variables/fonts';
+
+@import './base/settings';
+@import './base/base';
+
+@import './objects/o-background-image';
+@import './objects/o-button--line';
+@import './objects/o-title';
+@import './objects/o-tags';
+
+@import './layouts/l-landing';
+@import './layouts/l-three-col';
+@import './layouts/l-news';
+@import './layouts/l-onboarding';
+@import './layouts/_l-search.scss';
+@import './layouts/l-profile';
+@import './layouts/l-chat';
+
+@import './components/onboarding';
+@import './components/box-layout';
+@import './components/button';
+@import './components/header';
+@import './components/content-container';
+@import './components/page-header';
+@import './components/input-group';
+@import './components/inputs';
+@import './components/form';
+@import './components/visibility';
+@import './components/list';
+@import './components/loader';
+@import './components/photo-uploader';
+@import './components/form-box';
+@import './components/form-input';
+@import './components/navbar/navbar';
+@import './components/geolocate';
+@import './components/news';
+@import './components/news-pastille';
+@import './components/user-card';
+@import './components/menu';
+@import './components/slider';
+@import './components/user_description';
+@import './components/chat';
+@import './components/message';
+@import './components/edit';
+
+@import './utils/visibility';
+@import './utils/material-icons';
+@import './utils/loaders';
+@import './utils/spaces';
+@import './utils/ant-lib-override';
+@import './utils/emoji-mart';
